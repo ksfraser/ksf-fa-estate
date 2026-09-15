@@ -1,0 +1,12 @@
+Package: ksf_FA_estate
+Name: ksf_FA_estate
+Description: FrontAccounting UI/hooks for estate planning (Ksfraser\Estate business logic).
+Author: Kevin Fraser <kevin@ksfraser.com>
+Maintenance: Kevin Fraser <kevin@ksfraser.com>
+Homepage: http://ksfraser.com
+Type: extension
+InstallPath: modules/ksf_FA_estate
+Filename: ksf_FA_estate
+Version: 2.4.19-0
+FA-Version: 2.4
+PHP-Version: 7.3
